@@ -1,5 +1,6 @@
 # ECSE-223-Final-Project
-This app was built with a group of 6 students including myself. We implemented the app following restricted MVC pattern. Also, We have used Java, Gherkin, Umple, JavaFx and CSS.
+This app was built with a group of 6 students including myself. We implemented the app following restricted MVC pattern. Also, We have used Java, Junit framework, Gherkin, Umple, JavaFx and CSS.
+
 
 Project Overview 
 <br /> ClimbSafe application is built for the small Himalayan country of Neptan. ClimbSafe must be
