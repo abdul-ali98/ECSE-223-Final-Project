@@ -1,6 +1,15 @@
 # ECSE-223-Final-Project
-This app was built with a group of 6 students including myself. We implemented the app following restricted MVC pattern. Also, We have used Java, Junit framework, Gherkin, Umple, JavaFx and CSS.
+This dektop app was built with a group of 6 students including myself. We implemented the app following restricted MVC pattern. Also, We have used UML, BDD, Java, Junit, JavaFx and CSS. In the View and Controller, my contribution was in the Assignment tab where you can search, sort, and/or filter assignments at the same time.
 
+To run this app:
+
+1- Download the project
+2- Open terminal and build the project by running this command $./gradlew build
+(If you get permission denied) {
+$ chmod 700 gradlew. // set access permission to exectue read write
+}
+4- $$ ./gradlew run
+5- Have fun!!
 
 Project Overview 
 <br /> ClimbSafe application is built for the small Himalayan country of Neptan. ClimbSafe must be
@@ -40,8 +49,4 @@ guides, climbing weeks, and hotels to members, so that the total costs for guide
 shown to the member. More information about the assignment process will be provided at a later point.
 At the end of the climbing season, all members and guides are removed from the ClimbSafe application.
 
-To be able to run this app
-
-1- Import the project as a gradle project in Eclipse (Or your fav IDE, I used Eclipse)
-<br />2- Make sure you have Java 17
-<br />3- For further details, feel free to contact me.
+From Mycourses ECSE 223 Fall 2021
