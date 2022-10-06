@@ -3,13 +3,13 @@ This dektop app was built with a group of 6 students including myself. We implem
 
 To run this app:
 
-1- Download the project
-2- Open terminal and build the project by running this command $./gradlew build
-(If you get permission denied) {
-$ chmod 700 gradlew. // set access permission to exectue read write
-}
-4- $$ ./gradlew run
-5- Have fun!!
+1- Download the project <br>
+2- Open terminal and build the project by running this command $./gradlew build <br>
+(If you get permission denied) { <br>
+$ chmod 700 gradlew. // set access permission to exectue read write <br>
+} <br>
+4- $$ ./gradlew run <br>
+5- Have fun!! <br>
 
 Project Overview 
 <br /> ClimbSafe application is built for the small Himalayan country of Neptan. ClimbSafe must be
