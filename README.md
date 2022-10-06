@@ -11,7 +11,7 @@ $ chmod 700 gradlew. // set access permission to exectue read write <br>
 4- $$ ./gradlew run <br>
 5- Have fun!! <br>
 
-![](https://drive.google.com/file/d/1Uj67kc6dlO0XGEiiutEfG6k59LGAfqJ7/view?usp=sharing)
+![](https://drive.google.com/file/d/1Uj67kc6dlO0XGEiiutEfG6k59LGAfqJ7)
 
 Project Overview 
 <br /> ClimbSafe application is built for the small Himalayan country of Neptan. ClimbSafe must be
